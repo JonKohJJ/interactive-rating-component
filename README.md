@@ -13,14 +13,13 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://jonkohjj.github.io/interactive-rating-component/](https://jonkohjj.github.io/interactive-rating-component/)
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 ## Author
